@@ -54,9 +54,11 @@
 //     echo "the number is $x<br>";
 // }
 
-$cars = array('audi','bmw','mercedes');
-for each($cars as $value){
-    echo "value";
-}
+// $cars = array('audi','bmw','mercedes');
+// for each($cars as $value){
+//     echo "value";
+// }
+
+
 
 ?>
